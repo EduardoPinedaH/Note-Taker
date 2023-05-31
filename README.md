@@ -37,3 +37,7 @@ THEN that note appears in the right-hand column
 WHEN I click on the Write icon in the navigation at the top of the page
 
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
+
+# Due to Heroku Error I couldn't upload the page over there:
+![image](https://github.com/EduardoPinedaH/Note-Taker/assets/123011718/83145c44-cd72-4b93-875c-0de5781b11a3)
+![image](https://github.com/EduardoPinedaH/Note-Taker/assets/123011718/aac832a7-a796-4226-bda3-769deb4ca85e)
